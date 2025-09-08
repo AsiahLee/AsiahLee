@@ -2,14 +2,12 @@
 
 
 
-### About Me
-
-   <p align="left">
+<p align="left">
      
-   </p>
+</p>
 
 ---
-### Languages and Tools
+<h3>💻 Tech Stack</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,8 +19,13 @@
 </p>
 
 ---
-### Connect with me
+<h3>🚧 Recent Projects</h3>
+
+---
+<h3 align="left">Contact Me</h3>
 <p align="left">
-   <a href="mailto:asiahlee6@gmail.com" target="blank"><img align="center" src="" alt="Email asiahlee6@gmail.com" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/asiahlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="Linkedin @AsiahLee" height="30" width="40" /></a>
+   <a href="mailto:asiahlee6@gmail.com" target="blank"><img align="center" src="email-opened-svgrepo-com.svg" alt="Email asiahlee6@gmail.com" height="30" width="40" title="Email me"/></a>
+  <a href="https://www.linkedin.com/in/asiahlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="Linkedin @AsiahLee" height="30" width="40" title="Connect with me on Linkedin"/></a>
 </p>
+
+
